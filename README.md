@@ -1,4 +1,3 @@
-# INST126
 # Project1
 ## A Basic Calculator
 This code is for creating a sample calculator. 
